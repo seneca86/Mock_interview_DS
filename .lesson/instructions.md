@@ -1,5 +1,9 @@
 # Live coding case
 
+## Instructions
+
+* Please use `matplotlib` for the plots and store the figures in a directoy
+
 ## Libraries and parameters
 
 ```python
@@ -65,7 +69,7 @@ Tips:
 
 ## Exercise on time series
 
-* Read the file `.lesson/assets/plrx.txt`; the separator is the tab keystroke `\t`
+* Read the file `.lesson/assets/airline-passengers.csv`; the separator is a comma
 
 * We will use the time series `Passengers` de-trended. Plot it.
 
